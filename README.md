@@ -23,6 +23,11 @@ Can be traded for upgrades <br/>
 - [ ] Time Limit Penalty:&emsp;&emsp;&emsp;&emsp;-10 CROWNS  <br/>
 
 
+### Multiplayer
+- [ ] Random Pairing
+- [ ] Leaderboard
+- [ ] Stats
+
 
 ### Shadow banning
 - [ ] Set a flag if they are timelimit reached, then if it reaches 3 times in a row put them in the shadowban league.
