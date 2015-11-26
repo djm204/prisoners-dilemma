@@ -1,7 +1,7 @@
 {
-  "name": "tscaffold",
+  "name": "prisoners-dilemma",
   "version": "0.1.0",
-  "description": "TypeScript Project Scaffold",
+  "description": "Prisoner's Dilemma Game with Chat Window enabled",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seikho/ts-scaffold.git"
+    "url": "https://github.com/djm204/prisoners-dilemma.git"
   },
   "keywords": [
     "typescript"
   ],
-  "author": "Carl Winkler",
+  "author": "David Mendez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seikho/ts-scaffold/issues"
+    "url": "https://github.com/djm204/prisoners-dilemma/issues"
   },
-  "homepage": "https://github.com/seikho/ts-scaffold#readme",
+  "homepage": "https://github.com/djm204/prisoners-dilemma#readme",
   "devDependencies": {
     "typescript": "1.6.2"
   }
